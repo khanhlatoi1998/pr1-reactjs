@@ -10,7 +10,7 @@ import { v4 as  uuidv4 } from 'uuid' ; /*thu vien tao Id khac nhau*/
 function App() {
 	
   const Style = {	  
-	 marginRight : "3px" , 
+	 marginRight : "4px" , 
   } ;
   const forEach = (index) => {
 	   /* forEach co 3 tham so : tra ve  gia tri element , index cua element , mang dang duoc duyet */   
